@@ -1,0 +1,13 @@
+•	Build customized solutions that support business requirements and drive key business decisions.
+•	Develop custom applications using Salesforce.com, APEX, and Visual Force pages.
+•	Designing, developing, and configuring cutting edge Salesforce.com business solutions.
+•	Responsible for technical designs, implementation, testing using Salesforce.com APEX and Visual Force pages including production deployments.
+•	Working experience in Force.com (Salesforce).
+•	Hands on development experience with Apex, Governer limits, Visual Force pages design etc.
+•	Hands-on experience on Salesforce declarative (point & click) implementation Data Model (Custom objects & Relationships), Record Type, Page Layouts, Reports & Dashboards etc.
+•	Hands-on experience on HTML, JavaScript, CSS (e.g. HTML5, JQuery, AngularJS, Bootstrap etc.
+•	Good in Computer fundamentals like data structures, algorithms, etc.
+•	Good understanding of databases, normalization etc.
+•	Strong communication & analytical skills.
+•	Good problem solving skills
+
